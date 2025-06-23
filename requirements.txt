@@ -1,5 +1,4 @@
 streamlit
-torch
-numpy
-scikit-learn
-joblib
+pandas
+spacy
+textblob
